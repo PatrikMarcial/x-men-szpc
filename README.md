@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src="./imagens/logo.svg">
+    <img src="/imagens/logo.svg">
     <p>X-men project </p>
 </h1>
 
 <h1>
-    <img src="./imagens/gif(x-men).gif">
+    <img src="/imagens/gif(x-men).gif">
 </h1>
 
 ## 📕 About
