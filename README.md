@@ -1,5 +1,4 @@
 <h1 align="center">
-    <img src="./src/imagens/logo.svg">
     <p>X-men project </p>
 </h1>
 
